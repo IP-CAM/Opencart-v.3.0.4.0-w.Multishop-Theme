@@ -11,7 +11,7 @@ $_['text_recurring']		 = '%s every %s %s';
 $_['text_length']			 = ' for %s payments';
 $_['text_confirm_delete']	 = 'Are you sure you wish to delete this card';
 $_['text_card_success']		 = 'Card has been successfully removed';
-$_['text_card_error']		 = 'There are an error removing your card. Please contact the shop administrator for help.';
+$_['text_card_error']		 = 'There are an error removing your card. Please contact the multishop administrator for help.';
 
 // Entry
 $_['entry_card']			 = 'New or Existing Card: ';
@@ -25,4 +25,4 @@ $_['entry_cc_choice']		 = 'Choose an Existing Card';
 $_['button_delete_card']	 = 'Delete Card';
 
 // Error
-$_['error_process_order']	 = 'There are an error processing your order. Please contact the shop administrator for help.';
+$_['error_process_order']	 = 'There are an error processing your order. Please contact the multishop administrator for help.';

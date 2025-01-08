@@ -1,0 +1,12 @@
+2025-01-08 16:37:37 - PHP Warning:  Undefined array key "theme_antropy_product_limit" in /Users/aleksei/Desktop/Opencart/admin/controller/extension/theme/multishop.php on line 335
+2025-01-08 16:37:37 - PHP Warning:  Undefined array key "theme_antropy_product_description_length" in /Users/aleksei/Desktop/Opencart/admin/controller/extension/theme/multishop.php on line 339
+2025-01-08 16:37:37 - PHP Warning:  Undefined array key "theme_antropy_image_category_width" in /Users/aleksei/Desktop/Opencart/admin/controller/extension/theme/multishop.php on line 343
+2025-01-08 16:37:37 - PHP Warning:  Undefined array key "theme_antropy_image_thumb_width" in /Users/aleksei/Desktop/Opencart/admin/controller/extension/theme/multishop.php on line 347
+2025-01-08 16:37:37 - PHP Warning:  Undefined array key "theme_antropy_image_popup_width" in /Users/aleksei/Desktop/Opencart/admin/controller/extension/theme/multishop.php on line 351
+2025-01-08 16:37:37 - PHP Warning:  Undefined array key "theme_antropy_image_product_width" in /Users/aleksei/Desktop/Opencart/admin/controller/extension/theme/multishop.php on line 355
+2025-01-08 16:37:37 - PHP Warning:  Undefined array key "theme_antropy_image_additional_width" in /Users/aleksei/Desktop/Opencart/admin/controller/extension/theme/multishop.php on line 359
+2025-01-08 16:37:37 - PHP Warning:  Undefined array key "theme_antropy_image_related_width" in /Users/aleksei/Desktop/Opencart/admin/controller/extension/theme/multishop.php on line 363
+2025-01-08 16:37:37 - PHP Warning:  Undefined array key "theme_antropy_image_compare_width" in /Users/aleksei/Desktop/Opencart/admin/controller/extension/theme/multishop.php on line 367
+2025-01-08 16:37:37 - PHP Warning:  Undefined array key "theme_antropy_image_wishlist_width" in /Users/aleksei/Desktop/Opencart/admin/controller/extension/theme/multishop.php on line 371
+2025-01-08 16:37:37 - PHP Warning:  Undefined array key "theme_antropy_image_cart_width" in /Users/aleksei/Desktop/Opencart/admin/controller/extension/theme/multishop.php on line 375
+2025-01-08 16:37:37 - PHP Warning:  Undefined array key "theme_antropy_image_location_width" in /Users/aleksei/Desktop/Opencart/admin/controller/extension/theme/multishop.php on line 379

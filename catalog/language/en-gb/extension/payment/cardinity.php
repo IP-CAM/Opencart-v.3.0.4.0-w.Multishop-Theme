@@ -13,7 +13,7 @@ $_['entry_exp_year']					= 'Year';
 $_['entry_cvc']							= 'CVC';
 
 // Error
-$_['error_process_order']				= 'There was an error processing your order. Please contact the shop administrator for help.';
+$_['error_process_order']				= 'There was an error processing your order. Please contact the multishop administrator for help.';
 $_['error_invalid_currency']			= 'Please use a valid currency.';
 $_['error_finalizing_payment']			= 'Error finalizing payment.';
 $_['error_unknown_order_id']			= 'Could not find cardinity payment with this order_id.';

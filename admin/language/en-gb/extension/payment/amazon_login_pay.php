@@ -109,7 +109,7 @@ $_['help_ipn_token']				= 'Make this long and hard to guess. The resulting IPN U
 $_['help_minimum_total']			= 'This must be above zero';
 $_['help_debug']					= 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise';
 $_['help_declined_codes']			= 'This is for testing purposes only';
-$_['help_buyer_multi_currency']     = 'Enable this option if you would like the buyer to shop in any of the Amazon Pay supported currencies available in your on-line store: %s';
+$_['help_buyer_multi_currency']     = 'Enable this option if you would like the buyer to multishop in any of the Amazon Pay supported currencies available in your on-line store: %s';
 $_['help_buyer_multi_currency_no_available_currency']     = 'There are no <a href="https://pay.amazon.co.uk/help/5BDCWHCUC27485L"><b>Amazon Pay supported currencies</b></a> available in your on-line store, please add/enable such currencies in order to use this functionality.';
 
 // Order Info
@@ -124,7 +124,7 @@ $_['error_client_id']			    = 'Client ID is required';
 $_['error_client_secret']			= 'Client Key is required';
 $_['error_pay_mode']				= 'Payment is only available for US marketplace';
 $_['error_minimum_total']			= 'Minimum order total must be above zero';
-$_['error_curreny']                 = 'Your shop must have %s currency installed and enabled';
+$_['error_curreny']                 = 'Your multishop must have %s currency installed and enabled';
 $_['error_upload']                  = 'Upload failed';
 $_['error_data_missing'] 			= 'Required data is missing';
 $_['error_credentials'] 			= 'Please enter the keys in a valid JSON format';
